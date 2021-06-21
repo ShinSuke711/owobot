@@ -4,8 +4,8 @@ const {
 	JsonDatabase
 } = require("wio.db");
 const db = new JsonDatabase("db");
-var kanal = "kanal id";
-var sahip = "kendi idniz";
+var kanal = "717719291788787753";
+var sahip = "451392714924097558";
 
 client.on("ready",()=>{
 	console.log("Hazır ! ");
@@ -39,4 +39,4 @@ client.on("message",message=>{
 
 //ArdaDemr Youtube
 
-client.login("token");
+client.login("mfa.N1Ab6B9XtDhOogApBYv2mK90prLDiG4yli3WV0Y0hO06PpiXngg0Haboy9IwMLwJaahwqUi-wWixetzs2wNw");
